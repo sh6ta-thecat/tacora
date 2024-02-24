@@ -1,5 +1,5 @@
 <h1 align="center">Tacora</h1>
-## Bienvenidos a tacora
+# Bienvenidos a tacora
 
 <p align="right">
 <table width="100%">
@@ -9,3 +9,5 @@ Ya se que esxisten varias plataformas para ver peliculas en internet, pero las p
 Lo que quiero hacer con tacora es recopilar las paginas de donde se sacaran las peliculas y poder reproducirlas en la pagina.
 </td></tr>
 </table>
+
+</p>
